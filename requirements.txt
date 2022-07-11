@@ -1,0 +1,6 @@
+Django == 1.8.17
+djangorestframework==3.6.2
+django-allauth==0.34.0
+pep8
+django-cors-headers==2.0.1
+psycopg2-binary
